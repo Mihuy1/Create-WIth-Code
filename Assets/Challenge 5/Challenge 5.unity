@@ -966,6 +966,7 @@ MonoBehaviour:
   - {fileID: 3867821073191959212, guid: 591e0b0a9b4dd4709ad61b99dabf57ef, type: 3}
   spawnRate: 1.5
   isGameActive: 0
+  startTime: 60
 --- !u!4 &1128873052
 Transform:
   m_ObjectHideFlags: 0
@@ -1728,8 +1729,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278230527
-  m_fontColor: {r: 1, g: 0.6154709, b: 0, a: 1}
+    rgba: 4284968689
+  m_fontColor: {r: 0.9433962, g: 0.4309704, b: 0.40405837, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
